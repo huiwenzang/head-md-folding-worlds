@@ -74,5 +74,3 @@ Describe all the objects in a Scene that need to have a "state". Don't worry abo
 	+ Dry Flowers 2 (Disappear) ➡️ Blue Sun Star Orchid (Shows up)
 	+ Dry Flowers 3 (Disappear) ➡️ Underground Orchid (Shows up)
 
-
-
