@@ -30,49 +30,49 @@ POV == Points of view. Describe all the POVs where the player can stand/float/be
 
 ## Assets
 - Models
-Tree (big)
-Tree (small)
-Leaves
-Hoeny
-Water Drop
-Green Sponge
-Grey Sponge
-Chestnut
-Nut Shells
-Black Cohosh
-Seeds
-Fringed Orchid
-Dry Flowers 1
-Blue Sun Star Orchid
-Dry Flowers 2
-Underground Orchid
-Dry Flowers 3
+	+ Tree (big)
+	+ Tree (small)
+	+ Leaves
+	+ Hoeny
+	+ Water Drop
+	+ Green Sponge
+	+ Grey Sponge
+	+ Chestnut
+	+ Nut Shells
+	+ Black Cohosh
+	+ Seeds
+	+ Fringed Orchid
+	+ Dry Flowers 1
+	+ Blue Sun Star Orchid
+	+ Dry Flowers 2
+	+ Underground Orchid
+	+ Dry Flowers 3
 
 - Gestures
-Palm up 🫴
-Drop
+	+ Palm up 🫴
+	+ Drop
 
 - Sounds
-Bzzzzz (Every step you move, you make a BeeSound)
-gluglugluglu (water)
+	+ Bzzzzz (Every step you move, you make a BeeSound)
+	+ gluglugluglu (water)
 
 
 ## State Machines
 Describe all the objects in a Scene that need to have a "state". Don't worry about objects that don't change state.
 
 - Honey tree
-Gets healthier (less dusty?) each time the water is dropped
+	+ Gets healthier (less dusty?) each time the water is dropped
 
 - Leaves (on the honey tree)
-Increase each time the water is dropped
+	+ Increase each time the water is dropped
 
-- "dead" object turns into the "live" object each time the water is dropped
-Grey Sponge (Disappear) ➡️ Green Sponge (Shows up)
-Nut Shells (Disappear) ➡️ Chestnut (Shows up)
-Seeds (Disappear) ➡️  Black Cohosh (Shows up)
-Dry Flowers 1 (Disappear) ➡️ Fringed Orchid (Shows up)
-Dry Flowers 2 (Disappear) ➡️ Blue Sun Star Orchid (Shows up)
-Dry Flowers 3 (Disappear) ➡️ Underground Orchid (Shows up)
+- "dead" object turns into the "live" object each time the water is dropped:
+	+ Grey Sponge (Disappear) ➡️ Green Sponge (Shows up)
+	+ Nut Shells (Disappear) ➡️ Chestnut (Shows up)
+	+ Seeds (Disappear) ➡️  Black Cohosh (Shows up)
+	+ Dry Flowers 1 (Disappear) ➡️ Fringed Orchid (Shows up)
+	+ Dry Flowers 2 (Disappear) ➡️ Blue Sun Star Orchid (Shows up)
+	+ Dry Flowers 3 (Disappear) ➡️ Underground Orchid (Shows up)
 
 
 
