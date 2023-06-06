@@ -68,8 +68,6 @@ In this game you play the role of a bee that wants to rebuild its garden. Basica
 
 ## State Machines
 
-Describe all the objects in a Scene that need to have a "state". Don't worry about objects that don't change state.
-
 - Honey tree
 
   - Gets healthier by regaining its colors each time a plant regrows
