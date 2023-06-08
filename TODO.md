@@ -1,26 +1,5 @@
 # 8 June
 
-## share project with Github
-
-- Be sure to use .gitignore
-   - blog.prossel.info/212-gitignore-pour-unity
-     - Download & Unzip 
-     - to show hidden files on MAC: CMD+Shift+.
-
-- Commit to Github
-   - create a repository
-   - check the files adn be sure not commit library
-
-- Terminal
-   - cd (root of the project folder) ENTER
-   - git int ENTER
-   - see ".git" in project folder
-
-- Collaborate
-   - clone a repository
-   - work on different scenes?
-   - check the changes each time you commit
-
 
 ## Assets
 
