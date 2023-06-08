@@ -1,4 +1,28 @@
-# 7 June
+# 8 June
+
+## Github
+
+- .gitignore
+   - blog.prossel.info/212-gitignore-pour-unity
+     - Download & Unzip 
+     - to show hidden files on MAC: CMD+Shift+.
+   - github Unity.gitignore
+
+- Commit to Github
+   - create a repository
+   - commit without library
+
+- Terminal
+   - cd (root of the project folder) ENTER
+   - git int ENTER
+   - see ".git" in project folder
+
+- Collaborate
+   - clone a repository
+   - work on different scenes?
+   - check the changes each time you commit
+
+
 ## Assets
 
 - Models
@@ -38,17 +62,9 @@
 - Build the Scene & Test
 
 
-
 ## ⭕️ State Machines
 
 - Water drop
-
-
-
-# 8 June
-
-
-## ⭕️ State Machines
 
 
 - "Dead" object transform into the "healthy" objects each time a water unit is dropped on them :
