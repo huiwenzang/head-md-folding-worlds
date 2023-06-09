@@ -1,6 +1,5 @@
 # 8 June
 
-
 ## Assets
 
 - Models
@@ -18,9 +17,7 @@
   - ⭕️ Dry Flowers 1 ➡️ Fringed Orchid
   - ⭕️ Dry Flowers 2 ➡️ Underground Orchid
 
-
 ⭕️ Color Palette
-
 
 - Painting
 
@@ -39,7 +36,6 @@
 
 - Build the Scene & Test
 
-
 ## ⭕️ State Machines
 
 - Water drop
@@ -52,12 +48,11 @@ one fading in transparent and the other being not transparent
 or MAGICAL with a cloud of smoke
 start simple.
 
-  - Nut Shells (Disappear) ➡️ Chestnut (Shows up)
-  - Seeds (Disappear) ➡️ Black Cohosh (Shows up)
-  - Dry Flowers 1 (Disappear) ➡️ Fringed Orchid (Shows up)
-  - Dry Flowers 2 (Disappear) ➡️ Blue Sun Star Orchid (Shows up)
-  - Dry Flowers 3 (Disappear) ➡️ Underground Orchid (Shows up)
-
+- Nut Shells (Disappear) ➡️ Chestnut (Shows up)
+- Seeds (Disappear) ➡️ Black Cohosh (Shows up)
+- Dry Flowers 1 (Disappear) ➡️ Fringed Orchid (Shows up)
+- Dry Flowers 2 (Disappear) ➡️ Blue Sun Star Orchid (Shows up)
+- Dry Flowers 3 (Disappear) ➡️ Underground Orchid (Shows up)
 
 - Honey tree
 
@@ -65,12 +60,9 @@ start simple.
 
   - (Leafs on it increase in number each time a plant regrows)
 
-
 - Anntenessss
 
-
 # 12 June
-
 
 - ⭕️ Sounds
 
@@ -81,15 +73,14 @@ start simple.
     Every movement creates a buzz
 
   - glug
-    Water falls 
+    Water falls
 
   - glugglugglug
     Watering the plant
 
   - shinkssshinkss
     Sparkle/Glitter sound when the plants transform
-    
-    
+
 - ⭕️ Gestures
 
   - Palm up 🫴
