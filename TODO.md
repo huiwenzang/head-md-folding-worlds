@@ -1,5 +1,3 @@
-# 8 June
-
 ## Assets
 
 - Models
@@ -12,12 +10,11 @@
 
   - ❓ Grey Sponge ➡️ Green Sponge
 
-  - ⭕️ Nut Shells ➡️ Chestnut
+  -  Nut Shells ➡️ Chestnut
   - ⭕️ Seeds ➡️ Black Cohosh
-  - ⭕️ Dry Flowers 1 ➡️ Fringed Orchid
+  -  Dry Flowers 1 ➡️ Fringed Orchid
   - ⭕️ Dry Flowers 2 ➡️ Underground Orchid
 
-⭕️ Color Palette
 
 - Painting
 
