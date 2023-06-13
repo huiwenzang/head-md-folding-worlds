@@ -8,32 +8,32 @@
   - Hoeny
   - Water Drop
 
-  - ❓ Grey Sponge ➡️ Green Sponge
+  -  Grey Sponge ➡️ Green Sponge
 
   -  Nut Shells ➡️ Chestnut
-  - ⭕️ Seeds ➡️ Black Cohosh
+  -  Seeds ➡️ Black Cohosh
   -  Dry Flowers 1 ➡️ Fringed Orchid
-  - ⭕️ Dry Flowers 2 ➡️ Underground Orchid
+  -  Dry Flowers 2 ➡️ Underground Orchid
 
 
 - Painting
 
-  - ⭕️ Honey Tree (big)
+  - Honey Tree (big) x 5
   - （small tree）
-  - Leaves x 2
+  - Leaves x 5
   - Hoeny
   - Water Drop
 
-  - ❓ Grey Sponge ➡️ Green Sponge
+  - Grey Sponge ➡️ Green Sponge 2
 
-  - ❓ Nut Shells ➡️ Chestnut
-  - ❓ Seeds ➡️ ⭕️ Black Cohosh
-  - ❓ Dry Flowers 1 ➡️ ⭕️ Fringed Orchid
-  - ❓ Dry Flowers 2 ➡️ ❓ Underground Orchid
+  -  Nut Shells ➡️ Chestnut
+  - Seeds ➡️ Black Cohosh 1.5
+  -  Dry Flowers 1 ➡️ Fringed Orchid  1
+  - Dry Flowers 2 ➡️ Underground Orchid 1
 
 - Build the Scene & Test
 
-## ⭕️ State Machines
+## State Machines
 
 - Water drop
 
@@ -59,7 +59,7 @@ start simple.
 
 - Anntenessss
 
-# 12 June
+# 13 June
 
 - ⭕️ Sounds
 
@@ -78,7 +78,7 @@ start simple.
   - shinkssshinkss
     Sparkle/Glitter sound when the plants transform
 
-- ⭕️ Gestures
+- ❌ Gestures
 
   - Palm up 🫴
     water drop falls on hand
