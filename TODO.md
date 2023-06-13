@@ -1,6 +1,6 @@
 ## Assets
 
-- Models
+- Models ✅
 
   - Honey Tree (big)
   - （small tree）
@@ -8,15 +8,14 @@
   - Hoeny
   - Water Drop
 
-  -  Grey Sponge ➡️ Green Sponge
+  - Grey Sponge ➡️ Green Sponge
 
-  -  Nut Shells ➡️ Chestnut
-  -  Seeds ➡️ Black Cohosh
-  -  Dry Flowers 1 ➡️ Fringed Orchid
-  -  Dry Flowers 2 ➡️ Underground Orchid
+  - Nut Shells ➡️ Chestnut
+  - Seeds ➡️ Black Cohosh
+  - Dry Flowers 1 ➡️ Fringed Orchid
+  - Dry Flowers 2 ➡️ Underground Orchid
 
-
-- Painting
+- Painting ✅
 
   - Honey Tree (big) x 5
   - （small tree）
@@ -26,14 +25,16 @@
 
   - Grey Sponge ➡️ Green Sponge 2
 
-  -  Nut Shells ➡️ Chestnut
+  - Nut Shells ➡️ Chestnut
   - Seeds ➡️ Black Cohosh 1.5
-  -  Dry Flowers 1 ➡️ Fringed Orchid  1
+  - Dry Flowers 1 ➡️ Fringed Orchid 1
   - Dry Flowers 2 ➡️ Underground Orchid 1
 
 - Build the Scene & Test
 
 ## State Machines
+
+(✅ not a State Machine but answers the same needs)
 
 - Water drop
 
